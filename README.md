@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshpatil&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshpatil" /> </p>
 
-- 💬 Ask me about **MERN , HTML5, TailwindCss**
+- 💬 Ask me about **MERN , HTML5, TailwindCSS , ReactJS**
 
 - 📫 How to reach me **harshwardhanpatil340@gmail.com**
 
