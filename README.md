@@ -1,6 +1,6 @@
 [![MasterHead]
     <h1 align="center">Hi 👋, I'm Harshwardhan Patil</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshpatil&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshpatil" /> </p>
