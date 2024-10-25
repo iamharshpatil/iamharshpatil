@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MERN , HTML5, TailwindCSS , ReactJS**
 
-- 📫 How to reach me **harshwardhanpatil340@gmail.com**
+- 📫 How to reach me **harshwardhanpatil340@outlook.com**
 
 - ⚡ Fun fact **When I'm not coding, I enjoy hiking, reading tech blogs, and experimenting with new recipes in the kitchen. I also have a knack for solving Rubik's cubes and can complete one in under a minute!**
 
