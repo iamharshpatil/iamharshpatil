@@ -1,7 +1,7 @@
 #    <h1 align="center">Hi 👋, I'm Harshwardhan Patil</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 # 💫 About Me:
-🔭 I’m currently working on: Park and Ride – A smart urban parking and commuting solution (MERN + Maps + Payments)<br><br>🌱 I’m currently learning: Advanced System Design & Clean Architecture for Scalable Web Apps<br><br>👯 I’m looking to collaborate on: Open Source Projects, Frontend UI Libraries, AI-powered SaaS Tools<br><br>🤔 I’m looking for help with: Scaling React Apps, Efficient MongoDB Queries, AI Integration in Web Apps<br><br>💬 Ask me about: React.js, Node.js, MongoDB, Tailwind CSS, Frontend Best Practices, and Clean Code<br><br>📫 How to reach me: harshwardhanpatil340@outlook.com<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I can spend hours debugging a bug and still enjoy every bit of the challenge. Tech is my playground!
+🔭 I’m currently working on: Park and Ride – A smart urban parking and commuting solution (MERN + Maps + Payments)<br><br>🌱 I’m currently learning:  System Design & Clean Architecture for Scalable Web Apps<br><br>👯 I’m looking to collaborate on: Open Source Projects, Frontend UI Libraries, AI-powered SaaS Tools<br><br>🤔 I’m looking for help with: Scaling React Apps, Efficient MongoDB Queries, AI Integration in Web Apps<br><br>💬 Ask me about: React.js, Node.js, MongoDB, Tailwind CSS, Frontend Best Practices, and Clean Code<br><br>📫 How to reach me: harshwardhanpatil340@outlook.com<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I can spend hours debugging a bug and still enjoy every bit of the challenge. Tech is my playground!
 
 
 ## 🌐 Socials:
